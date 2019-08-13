@@ -9,6 +9,10 @@
 	background-color: #afbade;
 
 	text-align: left;
+	
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
 }
 
 .container.space-between {
@@ -18,7 +22,9 @@
 }
 
 .left, .right {
-	padding: 10px 20px;
+	min-width: 200px;
+	font-size: 26px;
+
 }
 
 #Professional Experience {
