@@ -12,15 +12,16 @@
 }
 
 .container.space-between {
-	justify-content; space-between;
+	-webkit-box-pack: justify;
+		- ms-flex-pack: justify;
+			justify-content; space-between;
 }
 
 .left, .right {
-	min-width: 400px;
 	padding: 10px 20px;
 }
 
-#content-professional {
+#Professional Experience {
 	font-size: 42px;
 }
 
