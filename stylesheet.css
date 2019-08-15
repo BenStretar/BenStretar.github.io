@@ -9,25 +9,21 @@
 	background-color: #afbade;
 
 	text-align: left;
-	
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
 }
 
-.container.space-between {
-	-webkit-box-pack: justify;
-		- ms-flex-pack: justify;
-			justify-content; space-between;
-}
-
-.left, .right {
-	min-width: 200px;
-	font-size: 26px;
-
+#Technical Skills {
+	font-size: 42px;
 }
 
 #Professional Experience {
+	font-size: 42px;
+}
+
+#Education {
+	font-size: 42px;
+}
+
+#Area of Study {
 	font-size: 42px;
 }
 
