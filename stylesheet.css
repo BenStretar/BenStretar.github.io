@@ -6,13 +6,11 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #afbade;
 
 	text-align: left;
 }
 
 #Technical-Skills {
-	font-size: 42px;
 	margin-top: 20px;
 	margin-left: 200px;
 	margin-right: 200px;
@@ -20,19 +18,19 @@
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #afbade;
+
 }
 
 #Professional-Experience {
-	font-size: 42px;
+	
 }
 
 #Education {
-	font-size: 42px;
+	
 }
 
 #Area-of-Study {
-	font-size: 42px;
+	
 }
 
 h1 {
@@ -63,7 +61,6 @@ li {
 #button {
 	margin-left: 40%;
 	margin-right: 40%;
-	background-color: #afbade;
 
 	border-radius: 15px;
 	height: 100px;
