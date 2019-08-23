@@ -10,41 +10,15 @@
 	text-align: left;
 }
 
-#Technical-Skills {
-
-}
-
-
-#Professional-Experience {
-		
-}
-
-#Education {
-	
-}
-
 #date-on-right {
 	margin: 0;
 	overflow: auto;
 }
 
-#Area-of-Study {
-	
-}
-
 h1 {
 	font-size: 64px;
 	margin-bottom: -25px;
-}
-
-h2 {
-	font-size: 18px;
-	margin-bottom: -6px;
-}
-
-h3 {
-	font-size: 26px;
-	margin-bottom: -10px;
+	align-content: center;
 }
 
 h4 {
